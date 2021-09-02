@@ -23,6 +23,3 @@ print(soup)
 
 
 
-
-
-
